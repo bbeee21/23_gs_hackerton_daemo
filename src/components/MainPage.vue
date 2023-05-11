@@ -1,7 +1,7 @@
 <template>
 <div class="caintaner">
     <!-- heading -->
-    <div class="logo">
+    <div class="gslogo">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GS_logo_%28South_Korean_company%29.svg" alt="GS 로고" />
         <br>
     </div>
@@ -67,7 +67,7 @@
 <script>
 export default {
     
-    name: "TodoApp",
+    name: "RecycleList",
     props: {
         msg: String,
     },
