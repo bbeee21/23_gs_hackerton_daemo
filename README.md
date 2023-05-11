@@ -1,11 +1,7 @@
-# Todo App
+# 23 Hackerton Daemo Web
 
-<h3>Deployed  Link</h3>
-<ul>
-<li>
-<a  href="https://todoapp-one-ashy.vercel.app/">🔗 Visit Site Todo App 🌐</a>
-</li>
-</ul>
+<h3>Deployed  Link 🌐 </h3>
+- not yet
 
 ## Tech stack :
 ### Frontend :
@@ -17,7 +13,7 @@
 ## Run Locally :
 Clone the Project
 ```
-https://github.com/kundan799/Todo_App
+https://github.com/bbeee21/23_gs_hackerton_daemo
 ``` 
 
 Install Dependencies
